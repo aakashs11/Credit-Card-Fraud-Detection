@@ -1,2 +1,2 @@
 # CC-fraud-Detection
-Check performance of various models by using SMOTE and ADASYNC 
+Predict credit card fraud using various models supported by SMOTE and ADASYNC  
